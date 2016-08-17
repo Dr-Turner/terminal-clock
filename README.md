@@ -1,7 +1,7 @@
 terminal-clock
 --------------
 
-A command-line clock that is designed to work in terminal windows and centers auomatically.
+A command-line clock that is designed to work in terminal windows and centers automatically.
 
 
 Works in:
